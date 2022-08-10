@@ -24,4 +24,3 @@ def accuracy(output:torch.Tensor,labels:torch.Tensor,mask:torch.Tensor):
     labels = labels[mask]
     return (output == labels).sum()/len(output)
     
-dgl.nn

@@ -1,5 +1,4 @@
 from random import random
-from onnxoptimizer import optimize
 import torch
 import argparse
 import numpy as np

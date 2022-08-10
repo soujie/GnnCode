@@ -1,0 +1,8 @@
+GDE/cache/
+GDE/记录/
+GDE/outputs/
+datasets/
+deepwalk/data/
+gae/data/
+gcmc/data/
+vage/data/
